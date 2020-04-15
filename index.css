@@ -1,0 +1,85 @@
+#targetElement {
+    height: 958px;
+    width: 1198px;
+	background-image: url("bst.png");
+	background-repeat:no-repeat;
+  }
+  .positionDiv {
+    width: 30px;
+    height: 30px;
+    
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: radial-gradient(circle at bottom, #81e8f6, #76deef 10%, #055194 80%, #062745 100%); 
+  }
+  
+  .pDivRed {
+    width: 10px;
+    height: 10px;
+	
+	-webkit-box-shadow: 0 10px 115px 20px rgba(255,0,0,1),0 10px 15px 4px rgba(255,0,0,1);
+    -moz-box-shadow: 0 10px 115px 20px rgba(255,0,0,1),0 10px 15px 4px rgba(255,0,0,1);
+     box-shadow: 0 10px 115px 20px rgba(255,0,0,1),0 10px 15px 4px rgba(255,0,0,1);
+		
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: red; 
+  }
+  
+  .pDivWhite {
+    width: 10px;
+    height: 10px;
+	
+	-webkit-box-shadow: 0 10px 115px 20px rgba(255,255,255,1),0 10px 15px 4px rgba(255,255,255,1);
+    -moz-box-shadow: 0 10px 115px 20px rgba(255,255,255,1),0 10px 15px 4px rgba(255,255,155,1);
+     box-shadow: 0 10px 115px 20px rgba(255,255,255,1),0 10px 15px 4px rgba(255,255,255,1);
+		
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: white; 
+  }
+  
+  .pDivBlue {
+    width: 10px;
+    height: 10px;
+	
+	-webkit-box-shadow: 0 10px 115px 20px rgba(0,0,255,1),0 10px 15px 4px rgba(0,0,255,1);
+    -moz-box-shadow: 0 10px 115px 20px rgba(0,0,255,1),0 10px 15px 4px rgba(0,0,255,1);
+     box-shadow: 0 10px 115px 20px rgba(0,0,255,1),0 10px 15px 4px rgba(0,0,255,1);
+		
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: blue; 
+  }
+  
+  .pDivYellow {
+    width: 10px;
+    height: 10px;
+	
+	-webkit-box-shadow:0 10px 115px 20px rgba(255,255,0,1),0 10px 15px 4px rgba(255,255,0,1);
+    -moz-box-shadow:0 10px 115px 20px rgba(255,255,0,1),0 10px 15px 4px rgba(255,255,0,1);
+     box-shadow:0 10px 115px 20px rgba(255,255,0,1),0 10px 15px 4px rgba(255,255,0,1);
+		
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: yellow; 
+  }
+  
+  .pDivOrange {
+    width: 10px;
+    height: 10px;
+	
+	-webkit-box-shadow:0 10px 115px 20px rgba(255,165,0,1),0 10px 15px 4px rgba(255,165,0,1);
+    -moz-box-shadow:0 10px 115px 20px rgba(255,165,0,1),0 10px 15px 4px rgba(255,165,0,1);
+     box-shadow:0 10px 115px 20px rgba(255,165,0,1),0 10px 15px 4px rgba(255,165,0,1);
+		
+	opacity: 1;
+	border-radius: 200px;
+    background-clip: padding-box;
+	background: orange; 
+  }
